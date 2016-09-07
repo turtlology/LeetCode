@@ -1,4 +1,8 @@
 package LongestSubstringWithoutRepeatingCharacters;
+//Use three pointers
+//Start is to show where is the start of the testing substring
+//now is to show where is the end of the testing substring
+//i is to show the traverse of the substring.
 
 public class Solution {
 	public int lengthOfLongestSubstring(String s) {
