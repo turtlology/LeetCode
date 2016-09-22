@@ -6,6 +6,17 @@ public class Solution {
         	return s;
         }
         String result = "";
+        
+        int start = 0;
+        int end = s.length()-1;
+        int test_start = start;
+        
+        boolean equal = false;
+        
+        while(end>start){
+        	
+        }
+        
         return result;
     }
 }
