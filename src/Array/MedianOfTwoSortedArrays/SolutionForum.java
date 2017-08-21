@@ -1,4 +1,4 @@
-package MedianofTwoSortedArrays;
+package Array.MedianOfTwoSortedArrays;
 
 public class SolutionForum {
 	public double findMedianSortedArrays(int[] A, int[] B) {

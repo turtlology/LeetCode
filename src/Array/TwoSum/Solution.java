@@ -1,4 +1,4 @@
-package TwoSum;
+package Array.TwoSum;
 //Brute Force
 
 public class Solution {

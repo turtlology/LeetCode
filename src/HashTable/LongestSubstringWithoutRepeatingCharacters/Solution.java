@@ -1,4 +1,4 @@
-package LongestSubstringWithoutRepeatingCharacters;
+package HashTable.LongestSubstringWithoutRepeatingCharacters;
 //Use three pointers
 //Start is to show where is the start of the testing substring
 //now is to show where is the end of the testing substring
