@@ -4,9 +4,9 @@ package BinarySearch.MedianOfTwoSortedArrays;
 
 public class Main {
 	public static void main(String args[]){
-		int a []= {};
-		int b []= {2,3};
-		Solution s = new Solution();
+		int a []= {4};
+		int b []= {1};
+		CouterSolution s = new CouterSolution();
 		double result = s.findMedianSortedArrays(a, b);
 		System.out.println(result);
 	}

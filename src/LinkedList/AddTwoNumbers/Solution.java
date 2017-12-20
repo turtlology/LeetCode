@@ -1,4 +1,5 @@
 package LinkedList.AddTwoNumbers;
+//brute force
 //simply add the node one by one
 //This solution has an obvious shortcoming is that I should discuss special conditions at the beginning of the solution
 

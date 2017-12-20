@@ -4,8 +4,9 @@ package String.LongestSubstringWithoutRepeatingCharacters;
 
 public class Main {
 	public static void main(String args[]){
-		Solution s = new Solution();
-		int result = s.lengthOfLongestSubstring("dvdf");
+//		Solution s = new Solution();
+		SlideWindowMap s = new SlideWindowMap();
+		int result = s.lengthOfLongestSubstring("abcabcbb");
 		System.out.println(result);
 	}
 }
