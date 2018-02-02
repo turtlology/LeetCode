@@ -1,4 +1,4 @@
-package TwoPointers.Q287FindTheDuplicateNumber;
+package BinarySearch.Q287FindTheDuplicateNumber;
 
 
 //If there is a duplicate number, there is a loop in the array so use fast pointer and slow pointer can find the duplicate
